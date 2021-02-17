@@ -5,14 +5,14 @@
 }
 
 @font-face {
-    font-family:"Minecrafter";
+    font-family:"Minecrafter Alt";
     src:local("Minecrafter");
     src:url('fonts/Minecrafter.ttf') format("truetype");
 }
 
 h1, h2 {
     color:white;
-    font-family:"Minecrafter";
+    font-family:"Minecrafter Alt";
     text-align: center;
     font-size: 200%;
 }

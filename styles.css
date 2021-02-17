@@ -33,13 +33,13 @@ body {
     width: 50%;
 }
 
-#header_video {
+/* #header_video {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
-/* .videoWrapper {
+.videoWrapper {
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 0;
@@ -52,4 +52,5 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    } */
+    margin: auto;
+    }

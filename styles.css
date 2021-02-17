@@ -33,9 +33,20 @@ body {
     width: 50%;
 }
 
-#header_video {
+/* #header_video {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* text-align: center; */
+} */
+
+.ytembed {
+	height: 0px;
+	padding-top: 25px;
+	padding-bottom: 56.2%;
+	position: relative;
+}
+.ytembed iframe {
+	width: 100%;
+	height: 100%;
+	position: absolute;
 }

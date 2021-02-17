@@ -43,11 +43,11 @@ body {
 	height: 0px;
 	padding-top: 25px;
 	padding-bottom: 56.2%;
-    padding-left: 5%;
+    padding-left: 15%;
 	position: relative;
 }
 .ytembed iframe {
-	width: 90%;
-	height: 90%;
+	width: 70%;
+	height: 70%;
 	position: absolute;
 }

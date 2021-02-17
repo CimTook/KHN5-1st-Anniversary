@@ -1,0 +1,40 @@
+@font-face {
+    font-family:"Minecraft";
+    src:local("Minecraft");
+    src:url('fonts/Minecraft.ttf') format("truetype");
+}
+
+@font-face {
+    font-family:"Minecrafter";
+    src:local("Minecrafter");
+    src:url('fonts/Minecrafter.ttf') format("truetype");
+}
+
+h1, h2 {
+    color:white;
+    font-family:"Minecrafter";
+    text-align: center;
+    font-size: 200%;
+}
+
+p {
+    color:white;
+    font-family:"Minecraft";
+}
+
+body {
+    background-image:url('img/polished_blackstone_bricks2x.png');
+}
+
+#header_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#header_video {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}

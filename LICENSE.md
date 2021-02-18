@@ -1,6 +1,6 @@
-                                 Cim Took Not-So-License
-							  Version 0.1, February 2021
-                        
+# Cim Took Not-So-License
+## Version 0.1, February 2021
+                      
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 

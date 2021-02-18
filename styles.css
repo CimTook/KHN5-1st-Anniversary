@@ -60,12 +60,6 @@ body {
 	position: absolute;
 }
 
-.scroll {
-    overflow-x: auto;
-    overflow-y: auto;
-    white-space: nowrap;
-}
-
 .row {
     display: flex;
   }

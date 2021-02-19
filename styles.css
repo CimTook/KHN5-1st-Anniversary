@@ -192,10 +192,11 @@ a:active {
   }
 
 #backtotop {
-    padding-right: 1%;
+    /*padding-right: 1%;
     padding-left: 1%;
     padding-top: 1%;
-    padding-bottom: 1%;
+    padding-bottom: 1%;*/
+    margin-left: 10%;
     position: fixed;
     bottom: 0px;
     right: 0px; 

@@ -7,6 +7,6 @@ You have officially discovered the repository that contains the source files for
 2. ---
 3. Replace "τότε" and "τόσο" with their respective values.
 4. ---
-5. Table of contents maybe?
+5. ---
 
 > ## *Look mom, I can speak `markdown`*

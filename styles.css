@@ -23,6 +23,7 @@ p {
     font-family:"Minecraft";
     text-align: center;
     overflow: hidden;
+    text-shadow: 2px 2px #4d4d4d;
 }
 
 body {
@@ -168,19 +169,19 @@ body {
 }
 
 a:link {
-    color: rgb(86, 182, 211);
+    color: rgb(184, 183, 174);
     background-color: transparent;
     text-decoration: none;
   }
   
 a:visited {
-    color: rgb(255, 0, 98);
+    color: rgb(86, 182, 211);
     background-color: transparent;
     text-decoration: none;
   }
 
 a:hover {
-    color: rgb(247, 160, 160);
+    color: rgb(245, 153, 153);
     background-color: transparent;
     text-decoration: underline;
   }

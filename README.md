@@ -7,5 +7,6 @@ You have officially discovered the repository that contains the source files for
 2. Fix the heading font.
 3. Replace "τότε" and "τόσο" with their respective values.
 4. JPEG-fy/resize the imagios.
+5. Table of contents maybe?
 
 > ## *Look mom, I can speak `markdown`*

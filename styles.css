@@ -89,6 +89,34 @@ body {
     margin-right: 2%;
 }
 
+.downloadbutton1 {
+    border: 4px solid rgb(92, 0, 0);
+    background-color: rgba(248, 66, 66, 0.4);
+    border-radius: 10px;
+    cursor: pointer;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.downloadbutton1:hover {
+    background-color: rgba(230, 39, 39, 0.6);
+}
+
+.downloadbutton2 {
+    border: 4px solid rgb(0, 36, 3);
+    background-color: rgba(73, 216, 73, 0.4);
+    border-radius: 10px;
+    cursor: pointer;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.downloadbutton2:hover {
+    background-color: rgba(15, 196, 24, 0.6);
+}
+
 #borderradiusimg {
     border-radius: 9px;
 }

@@ -5,14 +5,14 @@
 }
 
 @font-face {
-    font-family:"Minecrafter Alt";
-    src:local("Minecrafter");
-    src:url('fonts/Minecrafter.ttf') format("truetype");
+    font-family:"Minecraft Ten";
+    src:local("Minecraft Ten");
+    src:url('fonts/MinecraftTen.ttf') format("truetype");
 }
 
 h1, h2 {
     color:white;
-    font-family:"Minecrafter Alt";
+    font-family:"Minecraft Ten";
     text-align: center;
     font-size: 200%;
 }
@@ -31,7 +31,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    max-width: 80%;
 }
 
 .centerimg {
@@ -50,7 +50,7 @@ body {
 
 .ytembed {
     height: 0;
-	padding-top: 55px;
+	padding-top: 52px;
 	padding-bottom: 50%;
     padding-left: 15%;
 	position: relative;

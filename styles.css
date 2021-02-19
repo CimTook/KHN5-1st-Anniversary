@@ -10,12 +10,13 @@
     src:url('fonts/MinecraftTen.ttf') format("truetype");
 }
 
-h1, h2 {
+h1, h2, h3 {
     color:white;
     font-family:"Minecraft Ten";
     text-align: center;
     font-size: 200%;
     overflow: hidden;
+    letter-spacing: 0.4px;
 }
 
 p {
@@ -23,7 +24,8 @@ p {
     font-family:"Minecraft";
     text-align: center;
     overflow: hidden;
-    text-shadow: 2px 2px #4d4d4d;
+    text-shadow: 2px 2px #404040;
+    letter-spacing: 0.4px;
 }
 
 body {

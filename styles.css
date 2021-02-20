@@ -10,7 +10,7 @@
     src:url('fonts/MinecraftTen.ttf') format("truetype");
 }
 
-h1, h2, h3 {
+h1, h2 {
     color:white;
     font-family:"Minecraft Ten";
     text-align: center;
@@ -171,28 +171,28 @@ body {
 }
 
 a:link {
-    color: rgb(184, 183, 174);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-a:visited {
     color: rgb(86, 182, 211);
     background-color: transparent;
     text-decoration: none;
-  }
+}
+
+a:visited {
+    color: rgb(184, 183, 174);
+    background-color: transparent;
+    text-decoration: none;
+}
 
 a:hover {
-    color: rgb(245, 153, 153);
+    color: rgb(241, 149, 149);
     background-color: transparent;
     text-decoration: underline;
-  }
+}
   
 a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
-  }
+}
 
 #backtotop {
     /*padding-right: 1%;
